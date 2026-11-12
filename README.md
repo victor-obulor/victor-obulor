@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**victor-obulor/victor-obulor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst who turns messy data into clear answers. I also work as a QA specialist and data annotator, so I pay close attention to accuracy and detail.
 
-Here are some ideas to get you started:
+## What I work with
+- **SQL:** MySQL (joins, subqueries, CTEs, window functions, stored procedures, triggers)
+- **Excel**
+- **Power BI**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+**E-commerce data cleaning and analysis (coming soon)**
+Cleaning and analysing real e-commerce data with MySQL.
+
+## Currently
+- Building my portfolio with hands-on SQL projects
+- Improving my skills in Power BI and Python
+- Microsoft Excel
+
+## Get in touch
+- LinkedIn: [add your link here]
+- Email: [add the email you're happy to show publicly]
