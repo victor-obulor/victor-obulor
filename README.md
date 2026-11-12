@@ -16,7 +16,3 @@ Cleaning and analysing real e-commerce data with MySQL.
 - Building my portfolio with hands-on SQL projects
 - Improving my skills in Power BI and Python
 - Microsoft Excel
-
-## Get in touch
-- LinkedIn: [add your link here]
-- Email: [add the email you're happy to show publicly]
